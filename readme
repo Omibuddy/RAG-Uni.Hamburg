@@ -1,0 +1,64 @@
+4kondhal @basegpu1 course_llm e2 $ python perprocessing.py --database_dir database --output_dir processed_data
+2025-07-19 21:19:12,819 - INFO - Processing database structure: database
+2025-07-19 21:19:12,819 - INFO - Processing subdirectory: moderne_betriebssysteme
+2025-07-19 21:19:12,820 - INFO - Processing: MOBS_02_Prozesse.pdf
+2025-07-19 21:19:12,921 - INFO - Converting: MOBS_09_IO_Dateisysteme_long.pptx
+2025-07-19 21:19:12,924 - ERROR - Failed to convert database/moderne_betriebssysteme/MOBS_09_IO_Dateisysteme_long.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:12,924 - ERROR - Skipping MOBS_09_IO_Dateisysteme_long.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:12,924 - INFO - Converting: MOBS_12_Letzte_Vorlesung.pptx
+2025-07-19 21:19:12,927 - ERROR - Failed to convert database/moderne_betriebssysteme/MOBS_12_Letzte_Vorlesung.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:12,927 - ERROR - Skipping MOBS_12_Letzte_Vorlesung.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:12,927 - INFO - Processing: MOBS_01_Einführung.pdf
+2025-07-19 21:19:12,983 - INFO - Processing: MOBS_03_Scheduling.pdf
+2025-07-19 21:19:13,047 - INFO - Processing: MOBS_06_Interprozesskommunikation.pdf
+2025-07-19 21:19:13,137 - INFO - Processing: MOBS_04_Synchronisation.pdf
+2025-07-19 21:19:13,184 - INFO - Processing: MOBS_07_Speicherverwaltung.pdf
+2025-07-19 21:19:13,232 - INFO - Processing: MOBS_09_Ein_und_Ausgabe.pdf
+2025-07-19 21:19:13,274 - INFO - Converting: MOBS_10_Cloud_Virtualisierung.pptx
+2025-07-19 21:19:13,276 - ERROR - Failed to convert database/moderne_betriebssysteme/MOBS_10_Cloud_Virtualisierung.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:13,276 - ERROR - Skipping MOBS_10_Cloud_Virtualisierung.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:13,276 - INFO - Processing: MOBS_10_Dateisysteme.pdf
+2025-07-19 21:19:13,307 - INFO - Converting: MOBS_11_Dateisysteme_long.pptx
+2025-07-19 21:19:13,309 - ERROR - Failed to convert database/moderne_betriebssysteme/MOBS_11_Dateisysteme_long.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:13,309 - ERROR - Skipping MOBS_11_Dateisysteme_long.pptx: [Errno 2] No such file or directory: 'libreoffice'
+2025-07-19 21:19:13,309 - INFO - Processing: MOBS_08_Virtueller_Speicher.pdf
+2025-07-19 21:19:13,359 - INFO - Processing: Klausur_2021_Ersttermin.pdf
+2025-07-19 21:19:13,386 - INFO - Processing: MOBS_05_Deadlocks.pdf
+2025-07-19 21:19:13,437 - INFO - Processed 689 chunks from moderne_betriebssysteme
+2025-07-19 21:19:13,437 - INFO - Processing subdirectory: base_camp
+2025-07-19 21:19:13,437 - INFO - Processing: infb-proj-basecamp-sose2025-01-intro.pdf
+2025-07-19 21:19:13,483 - INFO - Processing: infb-proj-basecamp-sose2025-03-llm.pdf
+2025-07-19 21:19:13,500 - INFO - Processing: infb-proj-basecamp-sose2025-02-connecting-coral.pdf
+2025-07-19 21:19:13,526 - INFO - Processing: infb-proj-basecamp-sose2025-05-3dcad.pdf
+2025-07-19 21:19:13,551 - INFO - Processing: infb-proj-basecamp-sose2025-02-git.pdf
+2025-07-19 21:19:13,575 - INFO - Processing: infb-proj-basecamp-sose2025-04-networking.pdf
+2025-07-19 21:19:13,843 - INFO - Processed 243 chunks from base_camp
+2025-07-19 21:19:13,843 - INFO - Processing subdirectory: DOS
+2025-07-19 21:19:13,843 - INFO - Processing: Lecture_06.pdf
+2025-07-19 21:19:13,917 - INFO - Processing: Lecture_07.pdf
+2025-07-19 21:19:13,959 - INFO - Processing: Lecture_03.pdf
+2025-07-19 21:19:14,059 - INFO - Processing: Lecture_01.pdf
+2025-07-19 21:19:14,106 - INFO - Processing: Lecture_02.pdf
+2025-07-19 21:19:14,172 - INFO - Processing: Lecture_08.pdf
+2025-07-19 21:19:14,241 - INFO - Processing: Lecture_04.pdf
+2025-07-19 21:19:14,339 - INFO - Processing: Lecture_05.pdf
+2025-07-19 21:19:14,389 - INFO - Processed 585 chunks from DOS
+2025-07-19 21:19:14,389 - INFO - Processing subdirectory: university_wide
+2025-07-19 21:19:14,389 - INFO - Processing: course_cirrculum.pdf
+2025-07-19 21:19:15,141 - INFO - Processed 2144 chunks from university_wide
+2025-07-19 21:19:15,157 - INFO - Saved 689 chunks from moderne_betriebssysteme to processed_data/moderne_betriebssysteme.json
+2025-07-19 21:19:15,162 - INFO - Saved 243 chunks from base_camp to processed_data/base_camp.json
+2025-07-19 21:19:15,172 - INFO - Saved 585 chunks from DOS to processed_data/DOS.json
+2025-07-19 21:19:15,207 - INFO - Saved 2144 chunks from university_wide to processed_data/university_wide.json
+2025-07-19 21:19:15,207 - INFO - Total chunks processed: 3661
+2025-07-19 21:19:15,207 - INFO - Database saved to: processed_data
+
+ollama run llama3.1:latest
+mxbai-embed-large
+
+
+# server start
+-  ps aux | grep ollama # check if ollama is running
+- kill 266108 # kill ollama
+- ~/course_llm/bin/ollama serve & # start ollama
+- ollama --version # check if ollama is running

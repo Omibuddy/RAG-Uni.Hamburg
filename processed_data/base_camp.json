@@ -1,0 +1,2675 @@
+[
+  {
+    "page_content": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 09.04.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 09.04.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Agenda Vorstellung Wer bin ich? base.camp? Wer seid ihr? Thema des Projekts Kontext, Hardware, Ziele Organisatorisches Termine, Ablauf, Bewertungskriterien 4 Gruppenfindung Hardware ausprobieren",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "Agenda Vorstellung Wer bin ich? base.camp? Wer seid ihr? Thema des Projekts Kontext, Hardware, Ziele",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Vorstellung",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "Vorstellung",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Anton Semjonov Raum F511 anton.semjonov@unihamburg.de ▪Bachelor General Engineering Science an der 2011–2020 ▪Master Informatik an der 2020–2023 ▪Thesis bei Janick Edinger (DOS) “Opportunistic Distributed Computation Offloading Using WebAssembly” ▪WiMi / Doktorand bei DOS bzw. base.camp seit November 2023",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "Anton Semjonov Raum F511 anton.semjonov@unihamburg.de ▪Bachelor General Engineering Science an der 2",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "InfBBC base.camp Studenten ermöglichen: ▪Eigene Projektideen unter fachlicher Betreuung umzusetzen und dafür 3–9 CP zu bekommen ▪An Konferenzen teilzunehmen Events: ▪Absolventenfeier ▪Digital Science Night ▪Hackathons ▪Girls’ Day, Schnupperstudium, EXPO Kreativlabor für interdisziplinäre angewandte Forschung Big Data, Artificial Intelligence, Security uhh.de/basecamp",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "InfBBC base.camp Studenten ermöglichen: ▪Eigene Projektideen unter fachlicher Betreuung umzusetzen u",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Pitch your own project idea! ▪With a team or on your own ▪Find a supervisor to support you ▪Get 3, 6 or 9 Credit Points (up to 12 total) ▪Possibility to receive some funding ▪Access to CPU/GPU Server, Lab Space, 3D Printer and other hardware base.camp Project InfBBC (freier Wahlbereich)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "▪Pitch your own project idea! ▪With a team or on your own ▪Find a supervisor to support you ▪Get 3, ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "base.camp Team Janick Edinger Scientific Lead Anne Awizen Administrative Support Omkar Kondhalkar Student Assistant Anton Semjonov Operative Lead Volker Nötzold Technical Support Oliver Kafke Student Assistant",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "base.camp Team Janick Edinger Scientific Lead Anne Awizen Administrative Support Omkar Kondhalkar St",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Digital Science Night #5 Generation AI: Ich bin doch nur ein Language Model Foto: Viktor Gottselig",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "Digital Science Night #5 Generation AI: Ich bin doch nur ein Language Model Foto: Viktor Gottselig",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Creative Prototypes for Technological Challenges Nächste Bewerbungsphase startet August Photo: next.media",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "Creative Prototypes for Technological Challenges Nächste Bewerbungsphase startet August Photo: next.",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Weitere Events Absolventenfeier + Sommerfest Schnupperstudium EXPO",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "Weitere Events Absolventenfeier + Sommerfest Schnupperstudium EXPO",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Wer seid ihr? ▪Name, Studiengang, Semester? ▪Erfahrungen in Entwicklungsarbeit ▪Über SE1/SE2 hinaus? Andere Sprachen? ▪Möglicherweise bereits in einem Team / Job tätig? ▪Schon mal hardwarenah programmiert? Arduino? Oder AIAnwendungen? ▪Eure Erwartungen an das Projekt? Eure Wünsche …?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 11,
+      "chunk_id": "p11c1",
+      "title": "Wer seid ihr? ▪Name, Studiengang, Semester? ▪Erfahrungen in Entwicklungsarbeit ▪Über SE1/SE2 hinaus?",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Themenkontext EdgeAI",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 12,
+      "chunk_id": "p12c1",
+      "title": "Themenkontext EdgeAI",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Prototypische Entwicklung einer EdgeAI Anwendung in einem verteilten System, die ein AuthentifizierungsProtokoll implementiert. Projektziel Noch Fragen? ;)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 13,
+      "chunk_id": "p13c1",
+      "title": "Prototypische Entwicklung einer EdgeAI Anwendung in einem verteilten System, die ein Authentifizieru",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "“Artificial Intelligence (AI) at the edge is the utilization of AI in realworld devices. Edge AI refers to the practice of doing AI computations near the users at the network's edge, instead of centralised location like a cloud service provider's data centre.”Singh, Gill: “EdgeAI: A Survey” EdgeAI",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 14,
+      "chunk_id": "p14c1",
+      "title": "“Artificial Intelligence (AI) at the edge is the utilization of AI in realworld devices. Edge AI ref",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Vergangenes Jahrzehnt immer mehr Verlagerung in die Cloud ▪Sicherheit, Privatsphäre? ▪Geschwindigkeit, Latenz; zunehmend Mobilgeräte! ▪Hohe Kosten ▪Daher: Verschiebung zu “Fog”bzw. EdgeComputing ▪Mehr Rechenkapazität in der Nähe, teilweise direkt am Handgelenk ▪Aber was ist mit KIAnwendungen? Warum?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 15,
+      "chunk_id": "p15c1",
+      "title": "▪Vergangenes Jahrzehnt immer mehr Verlagerung in die Cloud ▪Sicherheit, Privatsphäre? ▪Geschwindigke",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Beispiele der PERCOM’24 (März 2024): ▪UR2M: Uncertainty and ResourceAware Event Detection on Microcontrollers ▪EndtoEnd MultiModal TinyCNN for Cardiovascular Monitoring on Sensor Patches ▪PA2BLO: LowPower, Personalized Audio Badge ▪DiTMoS: Delving into Diverse TinyModel Selection on Microcontroller Current Challenges",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 16,
+      "chunk_id": "p16c1",
+      "title": "Beispiele der PERCOM’24 (März 2024): ▪UR2M: Uncertainty and ResourceAware Event Detection on Microco",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Coral Dev Board Micro ▪Microcontroller Platine mit Zweikern MCU ▪CortexM7 and CortexM4 ▪64 MB RAM ▪128 MB Flash ▪Coral Edge TPU Koprozessor ▪4 TOp/s int8 @ 2 Watt ▪Sensorik und IO ▪Mikrofon, Kamera, Buttons ▪GPIO Pins (1.8V!), USBC ▪WLAN",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 17,
+      "chunk_id": "p17c1",
+      "title": "Coral Dev Board Micro ▪Microcontroller Platine mit Zweikern MCU ▪CortexM7 and CortexM4 ▪64 MB RAM ▪1",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Coral Dev Board ▪SingleBoard Computer (SBC) mit Quadcore SoC ▪CortexA53 + CortexM4F ▪4 GB RAM ▪16 GB eMMC Flash ▪Coral Edge TPU Koprozessor ▪4 TOp/s int8 @ 2 Watt ▪Sensorik und IO ▪Mikrofon, Kamera, Buttons ▪GPIO Pins, USBC OTG ▪WLAN, Bluetooth",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 18,
+      "chunk_id": "p18c1",
+      "title": "Coral Dev Board ▪SingleBoard Computer (SBC) mit Quadcore SoC ▪CortexA53 + CortexM4F ▪4 GB RAM ▪16 GB",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Ziel: Super Secure Vault!!!!11einself",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 19,
+      "chunk_id": "p19c1",
+      "title": "Ziel: Super Secure Vault!!!!11einself",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Projektziel ACCESS GRANTED",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 20,
+      "chunk_id": "p20c1",
+      "title": "Projektziel ACCESS GRANTED",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Projektziel ▪Mindestens zwei Geräte, die über ein Netzwerk kommunizieren (z.B. Coral Dev Micro + RaspPi) ▪Webbasiertes “Login” Interface ▪Verwendung von zwei “Faktoren”: ▪Audio: Sprachoder Tonbasiertes Modell ▪Visuell: Gesicht, Pose, Objekterkennung, … ▪Andere Sensorik? IMU, Thermal ▪3Dgedrucktes Gehäuse oder Halterung",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 21,
+      "chunk_id": "p21c1",
+      "title": "Projektziel ▪Mindestens zwei Geräte, die über ein Netzwerk kommunizieren (z.B. Coral Dev Micro + Ras",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Organisatorisches",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 22,
+      "chunk_id": "p22c1",
+      "title": "Organisatorisches",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Entwicklung auf moderner Hardware ▪Praktischer Fokus ▪Problem/ Forschungsorientiertes Lernen ▪Neue Technologien ▪Eigene Ideen ▪Teamarbeit mit agilen Methoden Was erwartet euch? • selbständige Wahl von Problemen und Themen, • eine selbständige Problemlösungsund Lernstrategie, • unbegrenztes Risiko an Irrtümern und Umwegen im Lernprozess, • die Absicht, wissenschaftlichen Ansprüchen genügen zu",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 23,
+      "chunk_id": "p23c1",
+      "title": "▪Entwicklung auf moderner Hardware ▪Praktischer Fokus ▪Problem/ Forschungsorientiertes Lernen ▪Neue ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "an Irrtümern und Umwegen im Lernprozess, • die Absicht, wissenschaftlichen Ansprüchen genügen zu wollen, • die selbständige Prüfung und Darstellung der Ergebnisse",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 23,
+      "chunk_id": "p23c2",
+      "title": "▪Entwicklung auf moderner Hardware ▪Praktischer Fokus ▪Problem/ Forschungsorientiertes Lernen ▪Neue ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪ein agiles Softwareprojekt organisieren ▪den gesamten Lebenszyklus eines SoftwareProjektes durchlaufen ▪ProjektmanagementWerkzeuge nutzen ▪Eigene Anwendungen selbstständig, kooperativ und kollaborativ entwickeln. ▪Verständnis von IoT, Sensordatenverarbeitung, AI Methoden, sicherheitsrelevanten Merkmalen und sicheren Kommunikationsabläufen vermitteln",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 24,
+      "chunk_id": "p24c1",
+      "title": "▪ein agiles Softwareprojekt organisieren ▪den gesamten Lebenszyklus eines SoftwareProjektes durchlau",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪Komplexe Abläufe in verteilten Systemen verstehen und alternative Entwurfsentscheidungen bewerten. Am Ende des Projekts könnt ihr …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 24,
+      "chunk_id": "p24c2",
+      "title": "▪ein agiles Softwareprojekt organisieren ▪den gesamten Lebenszyklus eines SoftwareProjektes durchlau",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Leistungspunkte ▪9 Credits / 6 SWS ▪entspricht ca. 12+ Stunden pro Woche, davon 4 Stunden in Präsenz ▪Durchführung ▪Kleingruppen, 3–5 Personen ▪Mittwochs, ab 14:00 Uhr ▪ Wollt ihr einen zweiten Termin??? ▪Eine SeminarPräsentation: einzeln oder pro Gruppe? Durchführung",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 25,
+      "chunk_id": "p25c1",
+      "title": "▪Leistungspunkte ▪9 Credits / 6 SWS ▪entspricht ca. 12+ Stunden pro Woche, davon 4 Stunden in Präsen",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Hat jede*r einen Laptop? Arbeitsplätze G027 base.camp Lab 2 Computer, 4 USBC Hubs D??? iRZ Pool Räume F634 Seminarraum Nur Tische und ein Beamer F529 DOS PoolRaum USBC Hubs für Laptops",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 26,
+      "chunk_id": "p26c1",
+      "title": "Hat jede*r einen Laptop? Arbeitsplätze G027 base.camp Lab 2 Computer, 4 USBC Hubs D??? iRZ Pool Räum",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "„Neben der Bearbeitung größerer theoretischer, konstruktiver und/oder experimenteller Aufgaben (in der Regel Systementwicklung nach SoftwaretechnikMethoden) in einem InformatikFachgebiet soll auch die Recherche aktueller Publikationen zum übergeordneten Projektthema und die gegenseitige Vermittlung der inhaltlichen Grundlagen Gegenstand des Projektes sein.“ Integriertes Seminar",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 27,
+      "chunk_id": "p27c1",
+      "title": "„Neben der Bearbeitung größerer theoretischer, konstruktiver und/oder experimenteller Aufgaben (in d",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Regelmäßige und pünktliche Teilnahme am Mittwoch ▪man darf zwei Mal unentschuldigt fehlen ▪Aktive Teilnahme im Team mit erkennbarem Einsatz ▪In den Git Commits ersichtlich und während der Präsentationen! ▪Rechtzeitige Bereitstellung und Präsentation von (Zwischen)Ergebnissen Formalia",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 28,
+      "chunk_id": "p28c1",
+      "title": "▪Regelmäßige und pünktliche Teilnahme am Mittwoch ▪man darf zwei Mal unentschuldigt fehlen ▪Aktive T",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Arbeitsprozess: Koordination, Selbstständigkeit, Teamfähigkeit, … ▪Anwendung: Aufwand der Implementierung, Wahl aus Realisierungsalternativen, .. ▪Präsentation: Fachliche Kompetenz, Foliengestaltung, Auftreten, … ▪Dokumentation (!): Vollständigkeit, Korrektheit, Verständlichkeit, … Bewertungskriterien",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 29,
+      "chunk_id": "p29c1",
+      "title": "▪Arbeitsprozess: Koordination, Selbstständigkeit, Teamfähigkeit, … ▪Anwendung: Aufwand der Implement",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Seminarpräsentation ▪Finale Präsentation des Prototypen ▪Code und Dokumentation im GitLab ▪“Extended Cut” der finalen Präsentation als schriftliche Abgabe Abgaben",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 30,
+      "chunk_id": "p30c1",
+      "title": "▪Seminarpräsentation ▪Finale Präsentation des Prototypen ▪Code und Dokumentation im GitLab ▪“Extende",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "April 09. Moin! 16. Examples & Setup 23. Festlegung auf ein Konzept 30. Zeitplan (vorläufig) Mai 07. 14. Seminarpräs. 21. Seminarpräs.? 28. Pfingstferien Juni 04. 11. MVP! 18. 25. Juli 02. 09. Finale Präs. 16. Sommerfest",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 31,
+      "chunk_id": "p31c1",
+      "title": "April 09. Moin! 16. Examples & Setup 23. Festlegung auf ein Konzept 30. Zeitplan (vorläufig) Mai 07.",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Slides + Organisatorisches im Moodle lernen.min.unihamburg.de/course/view.php?id=5488 ▪GitLab (Issues, Wiki, Pull Requests, CI) git.informatik.unihamburg.de/base.camp/teaching/infbprojekt2025 ▪Mattermost (TeamChat, like Slack) mattermost.informatik.unihamburg.de/masc21/channels/infbprojbasecamp2025 Tools 1. Einmal bei GitLab einloggen (LDAP) 2. Mir die InformatikKennung sagen",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 32,
+      "chunk_id": "p32c1",
+      "title": "▪Slides + Organisatorisches im Moodle lernen.min.unihamburg.de/course/view.php?id=5488 ▪GitLab (Issu",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Gruppenfindung",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 33,
+      "chunk_id": "p33c1",
+      "title": "Gruppenfindung",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Gruppenfindung 1) Gruppe 1 Melissa Feyza Anita Fati Julia 2) EdgeAI of Tomorrow Elmar Patrick Hauke Jonas Sophie 3) WildFusion Andreas Helen Hauke",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 34,
+      "chunk_id": "p34c1",
+      "title": "Gruppenfindung 1) Gruppe 1 Melissa Feyza Anita Fati Julia 2) EdgeAI of Tomorrow Elmar Patrick Hauke ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Themen für Präsentation ▪What is a RealTime OS (RTOS)? FreeRTOS, Zephyr, Linux RTOS ▪Intro to AI: Machine Learning, Deep Learning, CNN/RNN, Encoder+Decoder, ... ▪Ethics or Privacy Aspects in ML/AI? Federated Learning, Right to be forgotten, Concept Drift ▪EdgeAI: Why is it needed? How does it work on constrained hardware, compared to GPU? ▪… choose your own adventure? Anforderungen: ▪ca",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 35,
+      "chunk_id": "p35c1",
+      "title": "Themen für Präsentation ▪What is a RealTime OS (RTOS)? FreeRTOS, Zephyr, Linux RTOS ▪Intro to AI: Ma",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". 20–30 min Präsentation + 5–10 min Fragen hinterher ▪Verwende 1–2 wissenschaftliche Paper als Grundlage ▪ Kurze Diskussion, warum das gewählte Paper / die Konferenz relevant ist ▪ Nennt uns die gewählten Paper bitte vorab!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 35,
+      "chunk_id": "p35c2",
+      "title": "Themen für Präsentation ▪What is a RealTime OS (RTOS)? FreeRTOS, Zephyr, Linux RTOS ▪Intro to AI: Ma",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Mögliche Literatur How AI Works Ronald T. Kneusel PPN: 1866091611 InfBib: A KNE Machine Learning Q and AI Sebastian Raschka PPN: 1870800621 InfBib: tba (April?) Beginning STM32 Warren Gay PPN: 1883768705 PDF im CampusKatalog Das sind nur Vorschläge!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 36,
+      "chunk_id": "p36c1",
+      "title": "Mögliche Literatur How AI Works Ronald T. Kneusel PPN: 1866091611 InfBib: A KNE Machine Learning Q a",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Hardware ausprobieren!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 37,
+      "chunk_id": "p37c1",
+      "title": "Hardware ausprobieren!",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Haben alle einen Laptop? ▪Was für Betriebssysteme haben wir? ▪Fühlt ihr euch im Terminal wohl? ▪Alle schon einmal SSH benutzt? Let’s get going!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-01-intro.pdf",
+      "page": 38,
+      "chunk_id": "p38c1",
+      "title": "▪Haben alle einen Laptop? ▪Was für Betriebssysteme haben wir? ▪Fühlt ihr euch im Terminal wohl? ▪All",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 23.04.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 23.04.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "AI Tools Limits and Gotchas",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "AI Tools Limits and Gotchas",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪If Alice has six brothers and two sisters, how many sisters does one of Alice’s brothers have? ▪A: 3 How many sisters does Alice have?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "▪If Alice has six brothers and two sisters, how many sisters does one of Alice’s brothers have? ▪A: ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "How many sisters does Alice have?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "How many sisters does Alice have?",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪If Alice has six brothers and two sisters, how many sisters does one of Alice’s brothers have? ▪As soon as I ask Mistral to give them names, it gets the correct answer. How many sisters does Alice have?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "▪If Alice has six brothers and two sisters, how many sisters does one of Alice’s brothers have? ▪As ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪“TypoSquatting” bezeichnet das hochladen von Paketen mit irreführend ähnlichen Namen und schadhaftem Inhalt ▪“Slop” ist ein abfälliger Begriff für LLMgenerierte Texte ▪KITools generieren oft völlig falsche, aber vorhersehbare Paketnamen! ▪~ 19% gibt es gar nicht ▪~ 58% werden wiederholt generiert ▪Generierte Namen sehen plausibel aus! Risiko: Slopsquatting",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "▪“TypoSquatting” bezeichnet das hochladen von Paketen mit irreführend ähnlichen Namen und schadhafte",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪~ 58% werden wiederholt generiert ▪Generierte Namen sehen plausibel aus! Risiko: Slopsquatting socket.dev/blog/slopsquattinghowaihallucinationsarefuelinganewclassofsupplychainattacks",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 6,
+      "chunk_id": "p6c2",
+      "title": "▪“TypoSquatting” bezeichnet das hochladen von Paketen mit irreführend ähnlichen Namen und schadhafte",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪LLMs brauchen vielviel Text, auf dem sie lernen können ▪Funktionieren im Prinzip wie WebCrawler einer Suchmaschine … nur sehr viel aggressiver. So sehr, dass sie zu Downtime führen",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "▪LLMs brauchen vielviel Text, auf dem sie lernen können ▪Funktionieren im Prinzip wie WebCrawler ein",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". So sehr, dass sie zu Downtime führen. ▪Verteidigungsmechanismen: ▪Mit LLM endlose Abfolge von Seiten generieren: Nepenthes ▪ProofofWork bei jeder Anfrage: Anubis Sidequest: Ethics? status.sr.ht/issues/ 20250317git.sr.htllms/ xeiaso.net/notes/2025/anubisworks/",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 7,
+      "chunk_id": "p7c2",
+      "title": "▪LLMs brauchen vielviel Text, auf dem sie lernen können ▪Funktionieren im Prinzip wie WebCrawler ein",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "www.hcl.unihamburg.de/ddlitlab/gki/gkilandingpage/gkiforschung.html",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "www.hcl.unihamburg.de/ddlitlab/gki/gkilandingpage/gkiforschung.html",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "pad.unihamburg.de /promptworkbook#ChatbotsalsSparringspartnernutzen So what now? www.unihamburg.de /lehrenavi/lehrende/podcastgki/episodebiemann.html www.hcl.unihamburg.de /ddlitlab/gki/gkilandingpage.html",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "pad.unihamburg.de /promptworkbook#ChatbotsalsSparringspartnernutzen So what now? www.unihamburg.de /",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Heute",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "Heute",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "April 09. Moin! 16. Examples & Setup 23. Festlegung auf ein Konzept 30. Zeitplan Mai 07. 14. Seminarpräs. 21. Seminarpräs.? 28. Pfingstferien Juni 04. 11. MVP! 18. 25. Juli 02. 09. Finale Präs. 16. Sommerfest",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-03-llm.pdf",
+      "page": 11,
+      "chunk_id": "p11c1",
+      "title": "April 09. Moin! 16. Examples & Setup 23. Festlegung auf ein Konzept 30. Zeitplan Mai 07. 14. Seminar",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Connecting the Coral Dev Board Anton Semjonov 16.04.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "Connecting the Coral Dev Board Anton Semjonov 16.04.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪When connecting the Coral Dev Board’s OTG port, it should register as two USB devices: ▪Virtual Network Card (Remote NDIS) →The Coral serves your computer an IP Address via DHCP, so you can connect locally. ▪Serial Adapter (usbcdc, only Linux and Mac) →Interactive Shell ▪The Mendel Development Tool (mdt) searches for devices on local networks when you type mdt shell",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "▪When connecting the Coral Dev Board’s OTG port, it should register as two USB devices: ▪Virtual Net",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪In the end it’s just SSH, if you know the IP address! What’s supposed to happen?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 2,
+      "chunk_id": "p2c2",
+      "title": "▪When connecting the Coral Dev Board’s OTG port, it should register as two USB devices: ▪Virtual Net",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Windows",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "Windows",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪The official documentation recommends Git Bash but I don’t think that’s the best solution for “Linux compatibility” on Windows anymore. ▪1) Use the serial terminal with Web Serial in Chrome No need for Python at all but usability is worst",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "▪The official documentation recommends Git Bash but I don’t think that’s the best solution for “Linu",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪2) Install Python from python.org and use PowerShell ▪3) Use Windows Subsystem for Linux (WSL2) Needs USB forwarding but it should be simpler to find help (for Linux). ▪4) Use SSH on a local network Only after an initial setup of your SSH keys … How to even start mdt? mdt is a Python tool, so …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 4,
+      "chunk_id": "p4c2",
+      "title": "▪The official documentation recommends Git Bash but I don’t think that’s the best solution for “Linu",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Connect a MicroUSB cable to J10, next to GPIO ▪Open the Device Manager and check if you see CP2105 devices",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "▪Connect a MicroUSB cable to J10, next to GPIO ▪Open the Device Manager and check if you see CP2105 ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪You may need to install USB Drivers from SiLabs: www.silabs.com/interface/usbbridges/classic/device.cp2105?tab=softwareandtools ▪Simplest: Web Serial in Chrome: ktibow.github.io/fridge/serial No installation needed (apart from Chrome)! ▪Advanced: PuTTY from www.putty.org/ ▪CircuitPython Guide for serial devices: learn.adafruit.com/welcometocircuitpython/advancedserialconsoleonwindows Serial",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 5,
+      "chunk_id": "p5c2",
+      "title": "▪Connect a MicroUSB cable to J10, next to GPIO ▪Open the Device Manager and check if you see CP2105 ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "for serial devices: learn.adafruit.com/welcometocircuitpython/advancedserialconsoleonwindows Serial Terminal",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 5,
+      "chunk_id": "p5c3",
+      "title": "▪Connect a MicroUSB cable to J10, next to GPIO ▪Open the Device Manager and check if you see CP2105 ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Ideally, install the official Python from python.org/downloads/ ▪“Use admin privileges” and “Add python.exe to PATH” ▪Customize Installation ▪“Install Python for all users” ▪youtube.com/watch?v=NES0LRUFMBE ▪Open a new Powershell window and check pythonV ▪General Python bestpractice: use virtual environments! pythonm venv venv/ Install Python to Windows mkdir coral cd .\\coral pythonm venv venv",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "▪Ideally, install the official Python from python.org/downloads/ ▪“Use admin privileges” and “Add py",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "environments! pythonm venv venv/ Install Python to Windows mkdir coral cd .\\coral pythonm venv venv .\\venv\\Scripts\\activate pip install …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 6,
+      "chunk_id": "p6c2",
+      "title": "▪Ideally, install the official Python from python.org/downloads/ ▪“Use admin privileges” and “Add py",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪WSL2 launches a Linux distribution in a HyperV virtual machine",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "▪WSL2 launches a Linux distribution in a HyperV virtual machine. Integrated into Windows very well, ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". Integrated into Windows very well, so it is mostly transparent for you: shared filesystem, forwarded network ports, even GUI programs work … paired with a modern Terminal and it’s very usable: ▪learn.microsoft.com/windows/wsl/install ▪learn.microsoft.com/windows/terminal/install ▪VS Code uses a connector to launch in Windows but works on files inside WSL ▪In this case, you need to forward the",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 7,
+      "chunk_id": "p7c2",
+      "title": "▪WSL2 launches a Linux distribution in a HyperV virtual machine. Integrated into Windows very well, ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "connector to launch in Windows but works on files inside WSL ▪In this case, you need to forward the Coral’s USB devices: ▪usbipd for single devices (learn.microsoft.com/enus/windows/wsl/connectusb) ▪Better: WSL USB Manager (gitlab.com/alelec/wslusbgui) Windows Subsystem for Linux (WSL2)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 7,
+      "chunk_id": "p7c3",
+      "title": "▪WSL2 launches a Linux distribution in a HyperV virtual machine. Integrated into Windows very well, ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪The RNDIS Virtual Network Adapter works fine on Windows. ▪Use system settings or ipconfig to find your local IP address. It’s probably something like 192.168.101.82. ▪The Coral Dev board usually takes x.x.x.2 in this subnet. ▪OpenSSH client ssh is preinstalled in modern Windows versions. ▪Use any other method once and enable password authentication in /etc/ssh/sshd_config",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "▪The RNDIS Virtual Network Adapter works fine on Windows. ▪Use system settings or ipconfig to find y",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪Use any other method once and enable password authentication in /etc/ssh/sshd_config. Just use SSH (After initial installation …) ssh mendel@192.168.101.2",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 8,
+      "chunk_id": "p8c2",
+      "title": "▪The RNDIS Virtual Network Adapter works fine on Windows. ▪Use system settings or ipconfig to find y",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Mac OS",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "Mac OS",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪It seems that sometimes Mac OS does not register a network device anymore.  ▪1) Use Serial over USB (https://coral.ai/docs/devboard/serialconsole) Install CP210x USB to UART Bridge VCP Drivers from SiLabs, check if device appears in /dev/cu.* and use screen",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "▪It seems that sometimes Mac OS does not register a network device anymore.  ▪1) Use Serial over US",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". You can also use this as a stepstone for … ▪2) Connect the Coral to local WiFi (https://coral.ai/docs/devboard/mdt/#mdtonmacos) For example, start a hotspot on your phone or Mac, connect over serial and use nmcli to add the wireless network. Afterwards, note the Coral’s IP address from ip addr and connect with SSH. At this point, mdt shell should also find it, if your key is registered",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 10,
+      "chunk_id": "p10c2",
+      "title": "▪It seems that sometimes Mac OS does not register a network device anymore.  ▪1) Use Serial over US",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". At this point, mdt shell should also find it, if your key is registered. No SSH over USB?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-connecting-coral.pdf",
+      "page": 10,
+      "chunk_id": "p10c3",
+      "title": "▪It seems that sometimes Mac OS does not register a network device anymore.  ▪1) Use Serial over US",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 04.06.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 04.06.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Outline 3D Modellierung Was ist „CAD“? Software, Basics 2 Additive Printing Techniken, Material, Prozess Slicing Ein 3D Modell für den Drucker vorbereiten",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "Outline 3D Modellierung Was ist „CAD“? Software, Basics 2 Additive Printing Techniken, Material, Pro",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "3D Modellierung CAD Basics",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "3D Modellierung CAD Basics",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪“Lehre der Herstellung von Werkstücken und geometrisch definierten Körpern” ▪Verschiedene Verfahren: ▪Zerspanend: Sägen, Bohren, Schleifen ▪Fügend: Schmieden, Gießen, Schweißen, Kleben, Schrauben, … ▪CNCMaschinen: Fräsen, Drehen, Laserund Wasserschneiden ▪Additiv: Freiform 3D Drucken Fertigungstechnik",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "▪“Lehre der Herstellung von Werkstücken und geometrisch definierten Körpern” ▪Verschiedene Verfahren",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪CAD = Computer Aided Design ▪Statt am Zeichenbrett mit Papier und Tusche … ▪Wird heute parametrisch am Computer konstruiert, zusammengebaut, simuliert, … ▪Immer konkrete Fertigungstechnik im Hinterkopf: Ist das Bauteil so überhaupt herstellbar? Konstruktion",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "▪CAD = Computer Aided Design ▪Statt am Zeichenbrett mit Papier und Tusche … ▪Wird heute parametrisch",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪OnShape (onshape.com) browserbased, free tier ▪shapr3D (shapr3d.com) browserbased, free for education ▪FreeCAD (freecad.org) Windows/Mac/Linux, free & open source ▪SolveSpace (solvespace.com) Windows/Mac/Linux, free & open source ▪+ much more on r/3Dprinting CAD Software Selection",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "▪OnShape (onshape.com) browserbased, free tier ▪shapr3D (shapr3d.com) browserbased, free for educati",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Parametrisches Design ▪Konstruktion von Bauteilen: ▪Skizze in einer Arbeitsebene erstellen ▪Geometrie und Maße über Constraints und Abhängigkeiten definieren ▪Die Skizze für eine boolsche Operation benutzen: Extrusion (oder Differenz), Rotation, Sweep, Fasen, Bohren … ▪Neue Ebene anlegen und von vorne",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "Parametrisches Design ▪Konstruktion von Bauteilen: ▪Skizze in einer Arbeitsebene erstellen ▪Geometri",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪Alle Schritte bleiben als Historie erhalten! ▪Ändere ich später ein Maß, bleiben die Abhängigkeiten erhalten!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 7,
+      "chunk_id": "p7c2",
+      "title": "Parametrisches Design ▪Konstruktion von Bauteilen: ▪Skizze in einer Arbeitsebene erstellen ▪Geometri",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Parametrisches Design",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "Parametrisches Design",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Beispiel: Coral Dev Micro Case",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "Beispiel: Coral Dev Micro Case",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Tutorials CADSessions: Phone Stand (OnShape) youtu.be/rN3FehZZ8rQ JeffCAD: FreeCAD Beginner Tutorial youtu.be/SxuqO5OhjoQ →Meistens gibt es Beispielbauteile, die man nachbauen kann.",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "Tutorials CADSessions: Phone Stand (OnShape) youtu.be/rN3FehZZ8rQ JeffCAD: FreeCAD Beginner Tutorial",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Additive Printing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 11,
+      "chunk_id": "p11c1",
+      "title": "Additive Printing",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "3D Drucken? ▪Modell wird in 2D Schichten “geschnitten” ▪Jede Schicht wird auf die darunterliegende Schicht “oben drauf” gedruckt ▪Viele verschiedene Materialien möglich: ▪Plastik →schmilzt durch Temperatur ▪Resin →härtet durch UVLicht aus ▪Metalle →Pulver wird mit Laser geschmolzen ▪Beton, Schokolade, … 3dprintingindustry.com steinhoffarchitekten.de",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 12,
+      "chunk_id": "p12c1",
+      "title": "3D Drucken? ▪Modell wird in 2D Schichten “geschnitten” ▪Jede Schicht wird auf die darunterliegende S",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "makeuseof.com Gängige Materialien “Plastik”: PLA, PETG, ABS, Nylon, … wird geschmolzen und wieder erstarrt Resin: feinste Strukturen mit UVDruck Metallpulver Selective Laser Sintering 3dprintwestern.com makerspaceadelaide.org reddit u/OverflowTesting",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 13,
+      "chunk_id": "p13c1",
+      "title": "makeuseof.com Gängige Materialien “Plastik”: PLA, PETG, ABS, Nylon, … wird geschmolzen und wieder er",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪2x Anycubic Mega X ▪30×30×30 cm Volumen ▪Erreichbar über WebInterface base.camp 3D Drucker",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 14,
+      "chunk_id": "p14c1",
+      "title": "▪2x Anycubic Mega X ▪30×30×30 cm Volumen ▪Erreichbar über WebInterface base.camp 3D Drucker",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Slicing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 15,
+      "chunk_id": "p15c1",
+      "title": "Slicing",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Reminder: Modell wird in Schichten “geschnitten” ▪Slicer erstellt aus Oberflächenmodell (.stl) die Werkzeugpfade für den Druckkopf (.gcode) ▪Modell muss also in einer Richtung in Schichten “stapelbar” sein! (das muss aber nicht zwingend die konstruierte ZAchse sein) ▪Überhänge und “Luftdrucke” können oft mit Supports gestützt trotzdem gedruckt werden ▪Eine Fläche sollte flach sein, um gute",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 16,
+      "chunk_id": "p16c1",
+      "title": "▪Reminder: Modell wird in Schichten “geschnitten” ▪Slicer erstellt aus Oberflächenmodell (.stl) die ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "können oft mit Supports gestützt trotzdem gedruckt werden ▪Eine Fläche sollte flach sein, um gute Haftung am Druckbett zu gewährleisten Slicing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 16,
+      "chunk_id": "p16c2",
+      "title": "▪Reminder: Modell wird in Schichten “geschnitten” ▪Slicer erstellt aus Oberflächenmodell (.stl) die ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Slicer Software: z.B. Cura Slicer ▪Herstellerunabhängig, Profile für unterschiedliche Drucker ▪Kennt mögliche Größe, Geschwindigkeit, Material ▪Tausende Einstellmöglichkeiten, aber meistens braucht es nur die Rotation des Bauteils, Supports ja/nein und Art des Infills …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 17,
+      "chunk_id": "p17c1",
+      "title": "Slicer Software: z.B. Cura Slicer ▪Herstellerunabhängig, Profile für unterschiedliche Drucker ▪Kennt",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Supports ▪Der Drucker kann nicht in der Luft drucken ▪Wobei kleine “Brücken” durchaus machbar sind! ▪Supports werden automatisch generiert und mit einigem Abstand zum eigentlichen Modell gedruckt, um leicht entfernbar zu sein.",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 18,
+      "chunk_id": "p18c1",
+      "title": "Supports ▪Der Drucker kann nicht in der Luft drucken ▪Wobei kleine “Brücken” durchaus machbar sind! ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Supports?! ▪Oder ihr findet bzw. konstruiert von vornerein eine Richtung in der keine Supports nötig sind!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 19,
+      "chunk_id": "p19c1",
+      "title": "Supports?! ▪Oder ihr findet bzw. konstruiert von vornerein eine Richtung in der keine Supports nötig",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Das Innere des Modells muss nicht voll ausgefüllt sein! ▪ Sieht man sowieso nicht ▪ Mechanische Stabilität oftmals eher durch die Hülle gegeben ▪ Spart also Gewicht und Material ▪Verschiedene Muster haben unterschiedliche Stärken ▪Schnell: Grid oder Triangles ▪Stabil in jeder Achse: Gyroid Infill Patterns 3dprintinggeek.com",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 20,
+      "chunk_id": "p20c1",
+      "title": "▪Das Innere des Modells muss nicht voll ausgefüllt sein! ▪ Sieht man sowieso nicht ▪ Mechanische Sta",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Management Software ▪3D Drucker an einem Raspberry Pi angeschlossen ▪WebInterface, auf dem GCODE Dateien hochgeladen und gestartet werden können ▪Livestream über InfrarotKamera und Vorschau der Pfade in aktueller Ebene möglich Octoprint",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-05-3dcad.pdf",
+      "page": 21,
+      "chunk_id": "p21c1",
+      "title": "▪Management Software ▪3D Drucker an einem Raspberry Pi angeschlossen ▪WebInterface, auf dem GCODE Da",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 16.04.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 16.04.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Agenda Version Control Systems Internals, Commands, CtrlZ 2 GitLab, GitHub, … Issues, Planning, Merge Request, CI, DIE Let‘s try Create merge requests in your team",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "Agenda Version Control Systems Internals, Commands, CtrlZ 2 GitLab, GitHub, … Issues, Planning, Merg",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Git Internals, Commands, etc.",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "Git Internals, Commands, etc.",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Report.pdf ▪Report_final.pdf ▪Report_final_v2.pdf ▪Report_final_v2New.pdf ▪Report_final_v99_no_b ut_really_this_is_the_fi nal_version_this_time_f or_sure.pdf Software versioning?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "▪Report.pdf ▪Report_final.pdf ▪Report_final_v2.pdf ▪Report_final_v2New.pdf ▪Report_final_v99_no_b ut",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Software versioning! ▪Tracking changes: what, who, when and why? ▪Find bugs by dissecting history: when was this introduced? ▪Revert changes: experiment more freely ▪Collaborate: develop on independent parts of the code base ▪Reuse changesets as patches",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "Software versioning! ▪Tracking changes: what, who, when and why? ▪Find bugs by dissecting history: w",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Git vs. Subversion (SVN) ▪In principle, all remote and local repositories in Git are equal. ▪Centralized workflow is a social convention, not a technical necessity. ▪Even alternative VCS tools like jujutsu (jj) are often just a nicer frontend for the Git file structure",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "Git vs. Subversion (SVN) ▪In principle, all remote and local repositories in Git are equal. ▪Central",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Inside .git by Julia Evans ▪a commit is a file, with ID, parents, author, message and head of a tree ▪trees are directory listings of blobs or files, identified by hashes ▪any tiny change produces a different hash! ▪there is no stored diff or change, they are always computed from trees jvns.ca/blog/2024/01/26/insidegit/",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "Inside .git by Julia Evans ▪a commit is a file, with ID, parents, author, message and head of a tree",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "“Gitflow” ▪Do not work on the main branch directly ▪Create a „feature“ branch, commit there ▪Push your changes, create a merge request ▪Get reviews from another person ▪Tag finished releases Isolate your changes! Be independent of concurrent changes!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "“Gitflow” ▪Do not work on the main branch directly ▪Create a „feature“ branch, commit there ▪Push yo",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Oh Sh*t! Git! ▪Git keeps a Reflog with a list of all your actions: HEAD@{n} ▪Simple, add on top: git commitamend ▪Undo your commit: git reset HEAD~soft ▪Restore deleted file: git checkout <hash>path/to/file gitscm.com/book/en/v2/GitBasicsUndoingThings github.blog/20150608howtoundoalmostanythingwithgit/ gist.github.com/jvns/f7d2db163298423751a9d1a823d7c7c1 (Common Mistakes) ohshitgit.com",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "Oh Sh*t! Git! ▪Git keeps a Reflog with a list of all your actions: HEAD@{n} ▪Simple, add on top: git",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Oh My Git! Spielerisch Git lernen ohmygit.org/",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "Oh My Git! Spielerisch Git lernen ohmygit.org/",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Useful commands and aliases ▪Git can be heavily customized with config options and aliases ▪https://jvns.ca/blog/2024/02/16/populargitconfigoptions/ ▪https://github.com/ansemjo/dotfiles/blob/main/git/gitconfig ▪Or use a graphical tool: ▪VS Code + Extensions ▪GitHub Desktop ▪Sourcetree ▪GitKraken (free for students)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 11,
+      "chunk_id": "p11c1",
+      "title": "Useful commands and aliases ▪Git can be heavily customized with config options and aliases ▪https://",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Hosted Git Repositories GItLab, GitHub, …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 12,
+      "chunk_id": "p12c1",
+      "title": "Hosted Git Repositories GItLab, GitHub, …",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Development Lifecycle",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 13,
+      "chunk_id": "p13c1",
+      "title": "Development Lifecycle",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Part of the monitoring and planning step: ▪Describe problems and bugs ▪Feature requests or requirements ▪Simple TODO tracking … Metadata: ▪ID, Status ▪Author, Assignees, Participants ▪Labels, Projects, Milestones Issues",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 14,
+      "chunk_id": "p14c1",
+      "title": "Part of the monitoring and planning step: ▪Describe problems and bugs ▪Feature requests or requireme",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Group issues by topic or sprint ▪Move according to status: plan →doing →done or backlog ▪ Quick visual overview of importance etc. Planning – Board and Milestones",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 15,
+      "chunk_id": "p15c1",
+      "title": "▪Group issues by topic or sprint ▪Move according to status: plan →doing →done or backlog ▪ Quick vis",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Want to contribute but don’t have access? ▪Push your changes to a different branch or forked repository ▪Create a merge request, asking an authorized person to merge your changes ▪Always a good idea in teams ▪Rules may impose limits: ▪Require approving reviews ▪Require successful CI tests ▪… Merge or Pull Requests and Reviews",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 16,
+      "chunk_id": "p16c1",
+      "title": "▪Want to contribute but don’t have access? ▪Push your changes to a different branch or forked reposi",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Multistage YAML build workflows with containers ▪Artifacts (build output, binaries, rendered documents, …) can be stored ▪Add credentials to directly deploy to e.g. Kubernetes CI/CD – Continuous Integration and Deployment",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 17,
+      "chunk_id": "p17c1",
+      "title": "▪Multistage YAML build workflows with containers ▪Artifacts (build output, binaries, rendered docume",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Web IDE ▪Complete browserbased development environment with VSCode ▪Commit to main or a new branch from there",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 18,
+      "chunk_id": "p18c1",
+      "title": "Web IDE ▪Complete browserbased development environment with VSCode ▪Commit to main or a new branch f",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Let’s try to merge!",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 19,
+      "chunk_id": "p19c1",
+      "title": "Let’s try to merge!",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Head over to infbprojekt2025/playground ▪Each group shall have one text file ▪Inside the file, one name per line ▪Everyone adds their own name! ▪Direct pushes to main are disallowed Add your names in the playground",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-02-git.pdf",
+      "page": 20,
+      "chunk_id": "p20c1",
+      "title": "▪Head over to infbprojekt2025/playground ▪Each group shall have one text file ▪Inside the file, one ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 07.05.2025",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 1,
+      "chunk_id": "p1c1",
+      "title": "BSc. Projekt base.camp – SoSe 2025 Anton Semjonov 07.05.2025",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networking Basics",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 2,
+      "chunk_id": "p2c1",
+      "title": "Networking Basics",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Prof. Dr. Mathias Fischer: InfBCN Rechnernetze / Computer Networks www.inf.unihamburg.de/en/inst/ab/net/teaching/bachelor/comnets.html ▪“Computer Networking: A TopDown Approach” von Jim Kurose und Keith Ross gaia.cs.umass.edu/kurose_ross/lectures.php ▪The following slides are excerpts from various of these lectures in a different ordering! Check the link for the full course",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 3,
+      "chunk_id": "p3c1",
+      "title": "▪Prof. Dr. Mathias Fischer: InfBCN Rechnernetze / Computer Networks www.inf.unihamburg.de/en/inst/ab",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪Computernetzwerke, 6th Ed., Andrew S. Tanenbaum, Nick Feamster, David J. Wetherall elibrary.pearson.de/book/99.150005/9783863263553 List of Resources",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 3,
+      "chunk_id": "p3c2",
+      "title": "▪Prof. Dr. Mathias Fischer: InfBCN Rechnernetze / Computer Networks www.inf.unihamburg.de/en/inst/ab",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "HighLevel Overview",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 4,
+      "chunk_id": "p4c1",
+      "title": "HighLevel Overview",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Internet Introdu ction: 1The Internet: a “nuts and bolts” view mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network Packet switches: forward packets (chunks of data) ▪routers, switches Communication links ▪fiber, copper, radio, satellite ▪transmission rate: bandwidth Billions of connected computing devices: ▪hosts =",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 5,
+      "chunk_id": "p5c1",
+      "title": "Internet Introdu ction: 1The Internet: a “nuts and bolts” view mobile network home network enterpris",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "radio, satellite ▪transmission rate: bandwidth Billions of connected computing devices: ▪hosts = end systems ▪running network apps at Internet’s “edge” Networks ▪collection of devices, routers, links: managed by an organization",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 5,
+      "chunk_id": "p5c2",
+      "title": "Internet Introdu ction: 1The Internet: a “nuts and bolts” view mobile network home network enterpris",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "https://www.submarinecablemap.com/",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 6,
+      "chunk_id": "p6c1",
+      "title": "https://www.submarinecablemap.com/",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪Internet: “network of networks” ▪Interconnected ISPs Introduc tion: 17 The Internet: a “nuts and bolts” view mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network ▪protocols are everywhere • control sending, receiving of messages • e.g., HTTP (Web), streaming video, Skype, TCP, IP, WiFi, 4/5G, Ethernet Ethernet HTTP",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 7,
+      "chunk_id": "p7c1",
+      "title": "▪Internet: “network of networks” ▪Interconnected ISPs Introduc tion: 17 The Internet: a “nuts and bo",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "of messages • e.g., HTTP (Web), streaming video, Skype, TCP, IP, WiFi, 4/5G, Ethernet Ethernet HTTP Skype IP WiFi 4G TCP Streaming video ▪Internet standards • RFC: Request for Comments • IETF: Internet Engineering Task Force",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 7,
+      "chunk_id": "p7c2",
+      "title": "▪Internet: “network of networks” ▪Interconnected ISPs Introduc tion: 17 The Internet: a “nuts and bo",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introduc tion: 18 What’s a protocol? Human protocols: ▪“what’s the time?” ▪“I have a question” ▪introductions Network protocols: ▪computers (devices) rather than humans ▪all communication activity in Internet governed by protocols Protocols define the format, order of messages sent and received among network entities, and actions taken on message transmission, receipt Rules for: … specific",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 8,
+      "chunk_id": "p8c1",
+      "title": "Introduc tion: 18 What’s a protocol? Human protocols: ▪“what’s the time?” ▪“I have a question” ▪intr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "among network entities, and actions taken on message transmission, receipt Rules for: … specific messages sent … specific actions taken when message received, or other events",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 8,
+      "chunk_id": "p8c2",
+      "title": "Introduc tion: 18 What’s a protocol? Human protocols: ▪“what’s the time?” ▪“I have a question” ▪intr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introduc tion: 19 What’s a protocol? A human protocol and a computer network protocol: Q: other human protocols? Hi Hi Got the time? 2:00 time TCP connection response <file> TCP connection request GET http://gaia.cs.umass.edu/kurose_ross",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 9,
+      "chunk_id": "p9c1",
+      "title": "Introduc tion: 19 What’s a protocol? A human protocol and a computer network protocol: Q: other huma",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Physical Links",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 10,
+      "chunk_id": "p10c1",
+      "title": "Physical Links",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Links: physical media ▪bit: propagates between transmitter/receiver pairs ▪physical link: what lies between transmitter & receiver ▪guided media: • signals propagate in solid media: copper, fiber, coax ▪unguided media: • signals propagate freely, e.g., radio Twisted pair (TP) ▪two insulated copper wires • Category 5: 100 Mbps, 1 Gbps Ethernet • Category 6: 10Gbps Ethernet",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 11,
+      "chunk_id": "p11c1",
+      "title": "Introdu ction: 1Links: physical media ▪bit: propagates between transmitter/receiver pairs ▪physical ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Links: physical media Coaxial cable: ▪two concentric copper conductors ▪bidirectional ▪broadband: • multiple frequency channels on cable • 100’s Mbps per channel Fiber optic cable: ▪glass fiber carrying light pulses, each pulse a bit ▪highspeed operation: • highspeed pointtopoint transmission (10’s100’s Gbps) ▪low error rate: • repeaters spaced far apart • immune to electromagnetic",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 12,
+      "chunk_id": "p12c1",
+      "title": "Introdu ction: 1Links: physical media Coaxial cable: ▪two concentric copper conductors ▪bidirectiona",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "(10’s100’s Gbps) ▪low error rate: • repeaters spaced far apart • immune to electromagnetic noise",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 12,
+      "chunk_id": "p12c2",
+      "title": "Introdu ction: 1Links: physical media Coaxial cable: ▪two concentric copper conductors ▪bidirectiona",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Links: physical media Wireless radio ▪signal carried in various “bands” in electromagnetic spectrum ▪no physical “wire” ▪broadcast, “halfduplex” (sender to receiver) ▪propagation environment effects: • reflection • obstruction by objects • Interference/noise Radio link types: ▪Wireless LAN (WiFi) • 10100’s Mbps; 10’s of meters ▪widearea (e.g., 4G/5G cellular) • 10’s Mbps (4G) over",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 13,
+      "chunk_id": "p13c1",
+      "title": "Introdu ction: 1Links: physical media Wireless radio ▪signal carried in various “bands” in electroma",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "LAN (WiFi) • 10100’s Mbps; 10’s of meters ▪widearea (e.g., 4G/5G cellular) • 10’s Mbps (4G) over ~10 Km ▪Bluetooth: cable replacement • short distances, limited rates ▪terrestrial microwave • pointtopoint; 45 Mbps channels ▪satellite • up to < 100 Mbps (Starlink) downlink • 270 msec endend delay (geostationary)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 13,
+      "chunk_id": "p13c2",
+      "title": "Introdu ction: 1Links: physical media Wireless radio ▪signal carried in various “bands” in electroma",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Layered Model",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 14,
+      "chunk_id": "p14c1",
+      "title": "Layered Model",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Layered Internet protocol stack ▪application: supporting network applications • HTTP, IMAP, SMTP, DNS ▪transport: processprocess data transfer • TCP, UDP ▪network: routing of datagrams from source to destination • IP, routing protocols ▪link: data transfer between neighboring network elements • Ethernet, 802.11 (WiFi), PPP ▪physical: bits “on the wire” link application network",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 15,
+      "chunk_id": "p15c1",
+      "title": "Introdu ction: 1Layered Internet protocol stack ▪application: supporting network applications • HTTP",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "elements • Ethernet, 802.11 (WiFi), PPP ▪physical: bits “on the wire” link application network transport physical application transport network link physical",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 15,
+      "chunk_id": "p15c2",
+      "title": "Introdu ction: 1Layered Internet protocol stack ▪application: supporting network applications • HTTP",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Services, Layering and Encapsulation source ▪transportlayer protocol encapsulates applicationlayer message, M, with transport layerlayer header Ht to create a transportlayer segment • Ht used by transport layer protocol to implement its service application transport network link physical destination application transport network link physical Transportlayer protocol transfers M",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 16,
+      "chunk_id": "p16c1",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source ▪transportlayer protocol encapsulates ap",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "destination application transport network link physical Transportlayer protocol transfers M (e.g., reliably) from one process to another, using services of network layer Ht M Application exchanges messages to implement some application service using services of transport layer M",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 16,
+      "chunk_id": "p16c2",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source ▪transportlayer protocol encapsulates ap",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Services, Layering and Encapsulation source Transportlayer protocol transfers M (e.g., reliably) from one process to another, using services of network layer Ht M ▪networklayer protocol encapsulates transportlayer segment [Ht | M] with network layerlayer header Hn to create a networklayer datagram • Hn used by network layer protocol to implement its service application transport",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 17,
+      "chunk_id": "p17c1",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source Transportlayer protocol transfers M (e.g",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "datagram • Hn used by network layer protocol to implement its service application transport network link physical destination M application transport network link physical M Ht Hn Networklayer protocol transfers transportlayer segment [Ht | M] from one host to another, using link layer services",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 17,
+      "chunk_id": "p17c2",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source Transportlayer protocol transfers M (e.g",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Services, Layering and Encapsulation source Ht M ▪linklayer protocol encapsulates network datagram [Hn| [Ht |M], with linklayer header Hl to create a linklayer frame application transport network link physical destination M application transport network link physical M Ht Hn Linklayer protocol transfers datagram [Hn| [Ht |M] from host to neighboring host, using networklayer",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 18,
+      "chunk_id": "p18c1",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source Ht M ▪linklayer protocol encapsulates ne",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "protocol transfers datagram [Hn| [Ht |M] from host to neighboring host, using networklayer services M Ht Hn Hl Networklayer protocol transfers transportlayer segment [Ht | M] from one host to another, using link layer services",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 18,
+      "chunk_id": "p18c2",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source Ht M ▪linklayer protocol encapsulates ne",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Encapsulation message segment datagram frame Matryoshka dolls (stacking dolls) Credit: https://dribbble.com/shots/7182188BabushkaBoi",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 19,
+      "chunk_id": "p19c1",
+      "title": "Introdu ction: 1Encapsulation message segment datagram frame Matryoshka dolls (stacking dolls) Credi",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Services, Layering and Encapsulation source application transport network link physical destination application transport network link physical M Ht Hn Hl M Ht Hn Ht M M M message Ht M segment M Ht Hn datagram frame M Ht Hn Hl",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 20,
+      "chunk_id": "p20c1",
+      "title": "Introdu ction: 1Services, Layering and Encapsulation source application transport network link physi",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "network link physical applicatio n transport network link physical applicatio n transport network link physical Introdu ction: 1Encapsulation: an endend view source Ht Hn M segment Ht datagram destination Ht Hn Hl M Ht Hn M Ht M M Ht Hn Hl M Ht Hn M Ht Hn M Ht Hn Hl M router switch message M Ht M Hn frame link physical",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 21,
+      "chunk_id": "p21c1",
+      "title": "network link physical applicatio n transport network link physical applicatio n transport network li",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Routing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 22,
+      "chunk_id": "p22c1",
+      "title": "Routing",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Internet structure: a “network of networks” Question: given millions of access ISPs, how to connect them together? access net access net access net access net access net access net access net access net access net access net access net access net access net access net access net access net",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 23,
+      "chunk_id": "p23c1",
+      "title": "Introdu ction: 1Internet structure: a “network of networks” Question: given millions of access ISPs,",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Introdu ction: 1Internet structure: a “network of networks” Question: given millions of access ISPs, how to connect them together? access net access net access net access net access net access net access net access net access net access net access net access net access net access net access net access net connecting each access ISP to each other directly doesn’t scale: O(N2) connections.",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 24,
+      "chunk_id": "p24c1",
+      "title": "Introdu ction: 1Internet structure: a “network of networks” Question: given millions of access ISPs,",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "ISP A ISP C ISP B Introdu ction: 1Internet structure: a “network of networks” access net access net access net access net access net access net access net access net access net access net access net … and content provider networks (e.g., Google, Microsoft, Akamai) may run their own network, to bring services, content close to end users IXP IXP access net access net access net access net access net",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 25,
+      "chunk_id": "p25c1",
+      "title": "ISP A ISP C ISP B Introdu ction: 1Internet structure: a “network of networks” access net access net ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "services, content close to end users IXP IXP access net access net access net access net access net Content provider network regional ISP",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 25,
+      "chunk_id": "p25c2",
+      "title": "ISP A ISP C ISP B Introdu ction: 1Internet structure: a “network of networks” access net access net ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪mesh of interconnected routers ▪packetswitching: hosts break applicationlayer messages into packets ▪network forwards packets from one router to the next, across links on path from source to destination Introdu ction: 1The network core mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 26,
+      "chunk_id": "p26c1",
+      "title": "▪mesh of interconnected routers ▪packetswitching: hosts break applicationlayer messages into packets",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 327 Transport vs",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 27,
+      "chunk_id": "p27c1",
+      "title": "Transp ort Layer: 327 Transport vs. network layer services and protocols ▪network layer: communicati",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". network layer services and protocols ▪network layer: communication between hosts household analogy: 12 kids in Ann’s house sending letters to 12 kids in Bill’s house: ▪hosts = houses ▪processes = kids ▪app messages = letters in envelopes ▪transport protocol = Ann and Bill who demux to inhouse siblings ▪networklayer protocol = postal service ▪transport layer: communication between processes •",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 27,
+      "chunk_id": "p27c2",
+      "title": "Transp ort Layer: 327 Transport vs. network layer services and protocols ▪network layer: communicati",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪networklayer protocol = postal service ▪transport layer: communication between processes • relies on, enhances, network layer services",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 27,
+      "chunk_id": "p27c3",
+      "title": "Transp ort Layer: 327 Transport vs. network layer services and protocols ▪network layer: communicati",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 328 Transport services and protocols ▪provide logical communication between application processes running on different hosts mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network applicatio n transport network data link physical applicatio n transport network data link physical ▪transport protocols",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 28,
+      "chunk_id": "p28c1",
+      "title": "Transp ort Layer: 328 Transport services and protocols ▪provide logical communication between applic",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "network data link physical applicatio n transport network data link physical ▪transport protocols actions in end systems: • sender: breaks application messages into segments, passes to network layer • receiver: reassembles segments into messages, passes to application layer ▪two transport protocols available to Internet applications • TCP, UDP",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 28,
+      "chunk_id": "p28c2",
+      "title": "Transp ort Layer: 328 Transport services and protocols ▪provide logical communication between applic",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 429 Networklayer services and protocols ▪transport segment from sending to receiving host • sender: encapsulates segments into datagrams, passes to link layer • receiver: delivers segments to transport layer protocol ▪network layer protocols in every Internet device: hosts, routers ▪routers: • examines header fields in all IP datagrams passing through it • moves datagrams from",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 29,
+      "chunk_id": "p29c1",
+      "title": "Networ k Layer: 429 Networklayer services and protocols ▪transport segment from sending to receiving",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪routers: • examines header fields in all IP datagrams passing through it • moves datagrams from input ports to output ports to transfer datagrams along endend path mobile network enterprise network national or global ISP datacenter network applicatio n transport network link physical applicatio n transport network link physical networ k link physica l networ k link physica l networ k link",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 29,
+      "chunk_id": "p29c2",
+      "title": "Networ k Layer: 429 Networklayer services and protocols ▪transport segment from sending to receiving",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "n transport network link physical networ k link physica l networ k link physica l networ k link physica l networ k link physica l networ k link physica l",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 29,
+      "chunk_id": "p29c3",
+      "title": "Networ k Layer: 429 Networklayer services and protocols ▪transport segment from sending to receiving",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "networklayer functions: ▪forwarding: move packets from a router’s input link to appropriate router output link Networ k Layer: 430 Two key networklayer functions analogy: taking a trip ▪forwarding: process of getting through single interchange forwarding routing ▪routing: process of planning trip from source to destination ▪routing: determine route taken by packets from source to destination •",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 30,
+      "chunk_id": "p30c1",
+      "title": "networklayer functions: ▪forwarding: move packets from a router’s input link to appropriate router o",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "from source to destination ▪routing: determine route taken by packets from source to destination • routing algorithms",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 30,
+      "chunk_id": "p30c2",
+      "title": "networklayer functions: ▪forwarding: move packets from a router’s input link to appropriate router o",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Forwarding: ▪aka “switching” ▪local action: move arriving packets from router’s input link to appropriate router output link Introdu ction: 1Two key networkcore functions destination address in arriving packet’s header routing algorithm header value output link local forwarding table local forwarding table Routing: ▪global action: determine sourcedestination paths taken by packets ▪routing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 31,
+      "chunk_id": "p31c1",
+      "title": "Forwarding: ▪aka “switching” ▪local action: move arriving packets from router’s input link to approp",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "table Routing: ▪global action: determine sourcedestination paths taken by packets ▪routing algorithms routing algorithm",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 31,
+      "chunk_id": "p31c2",
+      "title": "Forwarding: ▪aka “switching” ▪local action: move arriving packets from router’s input link to approp",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "IP Adressing",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 32,
+      "chunk_id": "p32c1",
+      "title": "IP Adressing",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 433 Network Layer: Internet host, router network layer functions: IP protocol • datagram format • addressing • packet handling conventions ICMP protocol • error reporting • router “signaling” transport layer: TCP, UDP link layer physical layer network layer forwarding table Pathselection algorithms: implemented in • routing protocols (OSPF, BGP) • SDN controller",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 33,
+      "chunk_id": "p33c1",
+      "title": "Networ k Layer: 433 Network Layer: Internet host, router network layer functions: IP protocol • data",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 434 IP Datagram format ver length 32 bits payload data (variable length, typically a TCP or UDP segment) 16bit identifier header checksum time to live source IP address head",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 34,
+      "chunk_id": "p34c1",
+      "title": "Networ k Layer: 434 IP Datagram format ver length 32 bits payload data (variable length, typically a",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". len type of service flgs fragment offset upper layer destination IP address options (if any) IP protocol version number header length(bytes) upper layer protocol (e.g., TCP or UDP) total datagram length (bytes) “type” of service: ▪diffserv (0:5) ▪ECN (6:7) fragmentation/ reassembly TTL: remaining max hops (decremented at each router) ▪20 bytes of TCP ▪20 bytes of IP ▪= 40 bytes + app layer",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 34,
+      "chunk_id": "p34c2",
+      "title": "Networ k Layer: 434 IP Datagram format ver length 32 bits payload data (variable length, typically a",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "max hops (decremented at each router) ▪20 bytes of TCP ▪20 bytes of IP ▪= 40 bytes + app layer overhead for TCP+IP overhead e.g., timestamp, record route taken 32bit source IP address 32bit destination IP address header checksum Maximum length: 64K bytes Typically: 1500 bytes or less",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 34,
+      "chunk_id": "p34c3",
+      "title": "Networ k Layer: 434 IP Datagram format ver length 32 bits payload data (variable length, typically a",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪IP address: 32bit identifier associated with each host or router interface ▪interface: connection between host/router and physical link ▪router’s typically have multiple interfaces ▪host typically has one or two interfaces (e.g., wired Ethernet, wireless 802.11) Networ k Layer: 435 IP addressing: introduction 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 223.1.3.2",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 35,
+      "chunk_id": "p35c1",
+      "title": "▪IP address: 32bit identifier associated with each host or router interface ▪interface: connection b",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "introduction 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 223.1.3.2 223.1.3.1 223.1.3.27 223.1.1.1 = 11011111 00000001 00000001 00000001 dotteddecimal IP address notation:",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 35,
+      "chunk_id": "p35c2",
+      "title": "▪IP address: 32bit identifier associated with each host or router interface ▪interface: connection b",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 436 Subnets 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 223.1.3.2 223.1.3.1 223.1.3.27 ▪What’s a subnet ? • device interfaces that can physically reach each other without passing through an intervening router network consisting of 3 subnets ▪IP addresses have structure: • subnet part: devices in same subnet have common high order bits • host part:",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 36,
+      "chunk_id": "p36c1",
+      "title": "Networ k Layer: 436 Subnets 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 22",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "have structure: • subnet part: devices in same subnet have common high order bits • host part: remaining low order bits",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 36,
+      "chunk_id": "p36c2",
+      "title": "Networ k Layer: 436 Subnets 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 22",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 437 IP addressing: CIDR CIDR: Classless InterDomain Routing (pronounced “cider”) • subnet portion of address of arbitrary length • address format: a.b.c.d/x, where x is # bits in subnet portion of address 11001000 00010111 00010000 00000000 subnet part host part 200.23.16.0/23",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 37,
+      "chunk_id": "p37c1",
+      "title": "Networ k Layer: 437 IP addressing: CIDR CIDR: Classless InterDomain Routing (pronounced “cider”) • s",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 438 IP addresses: how to get one? That’s actually two questions: 1. Q: How does a host get IP address within its network (host part of address)? 2",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 38,
+      "chunk_id": "p38c1",
+      "title": "Networ k Layer: 438 IP addresses: how to get one? That’s actually two questions: 1. Q: How does a ho",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". Q: How does a host get IP address within its network (host part of address)? 2. Q: How does a network get IP address for itself (network part of address) How does host get IP address? ▪hardcoded by sysadmin in config file (e.g., /etc/rc.config in UNIX) ▪DHCP: Dynamic Host Configuration Protocol: dynamically get address from as server • “plugandplay”",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 38,
+      "chunk_id": "p38c2",
+      "title": "Networ k Layer: 438 IP addresses: how to get one? That’s actually two questions: 1. Q: How does a ho",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 439 DHCP: Dynamic Host Configuration Protocol goal: host dynamically obtains IP address from network server when it “joins” network ▪can renew its lease on address in use ▪allows reuse of addresses (only hold address while connected/on) ▪support for mobile users who join/leave network DHCP overview: ▪host broadcasts DHCP discover msg [optional] ▪DHCP server responds with DHCP offer",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 39,
+      "chunk_id": "p39c1",
+      "title": "Networ k Layer: 439 DHCP: Dynamic Host Configuration Protocol goal: host dynamically obtains IP addr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "DHCP overview: ▪host broadcasts DHCP discover msg [optional] ▪DHCP server responds with DHCP offer msg [optional] ▪host requests IP address: DHCP request msg ▪DHCP server sends address: DHCP ack msg",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 39,
+      "chunk_id": "p39c2",
+      "title": "Networ k Layer: 439 DHCP: Dynamic Host Configuration Protocol goal: host dynamically obtains IP addr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 440 DHCP clientserver scenario 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223.1.2.2 223.1.2.1 223.1.3.2 223.1.3.1 223.1.3.27 DHCP server 223.1.2.5 arriving DHCP client needs address in this network Typically, DHCP server will be colocated in router, serving all subnets to which router is attached",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 40,
+      "chunk_id": "p40c1",
+      "title": "Networ k Layer: 440 DHCP clientserver scenario 223.1.1.1 223.1.1.2 223.1.1.3 223.1.1.4 223.1.2.9 223",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "10.0.0.1 10.0.0.2 10.0.0.3 10.0.0.4 local network (e.g., home network) 10.0.0/24 138.76.29.7 rest of Internet Networ k Layer: 441 NAT: network address translation datagrams with source or destination in this network have 10.0.0/24 address for source, destination (as usual) all datagrams leaving local network have same source NAT IP address: 138.76.29.7, but different source port numbers NAT: all",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 41,
+      "chunk_id": "p41c1",
+      "title": "10.0.0.1 10.0.0.2 10.0.0.3 10.0.0.4 local network (e.g., home network) 10.0.0/24 138.76.29.7 rest of",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "network have same source NAT IP address: 138.76.29.7, but different source port numbers NAT: all devices in local network share just one IPv4 address as far as outside world is concerned",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 41,
+      "chunk_id": "p41c2",
+      "title": "10.0.0.1 10.0.0.2 10.0.0.3 10.0.0.4 local network (e.g., home network) 10.0.0/24 138.76.29.7 rest of",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪all devices in local network have 32bit addresses in a “private” IP address space (10/8, 172.16/12, 192.168/16 prefixes) that can only be used in local network ▪advantages: ▪just one IP address needed from provider ISP for all devices ▪can change addresses of host in local network without notifying outside world ▪can change ISP without changing addresses of devices in local network ▪security:",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 42,
+      "chunk_id": "p42c1",
+      "title": "▪all devices in local network have 32bit addresses in a “private” IP address space (10/8, 172.16/12,",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "outside world ▪can change ISP without changing addresses of devices in local network ▪security: devices inside local net not directly addressable, visible by outside world Networ k Layer: 442 NAT: network address translation",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 42,
+      "chunk_id": "p42c2",
+      "title": "▪all devices in local network have 32bit addresses in a “private” IP address space (10/8, 172.16/12,",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "implementation: NAT router must (transparently): ▪outgoing datagrams: replace (source IP address, port #) of every outgoing datagram to (NAT IP address, new port #) • remote clients/servers will respond using (NAT IP address, new port #) as destination address ▪remember (in NAT translation table) every (source IP address, port #) to (NAT IP address, new port #) translation pair ▪incoming",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 43,
+      "chunk_id": "p43c1",
+      "title": "implementation: NAT router must (transparently): ▪outgoing datagrams: replace (source IP address, po",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "table) every (source IP address, port #) to (NAT IP address, new port #) translation pair ▪incoming datagrams: replace (NAT IP address, new port #) in destination fields of every incoming datagram with corresponding (source IP address, port #) stored in NAT table Networ k Layer: 443 NAT: network address translation",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 43,
+      "chunk_id": "p43c2",
+      "title": "implementation: NAT router must (transparently): ▪outgoing datagrams: replace (source IP address, po",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Networ k Layer: 444 NAT: network address translation S: 10.0.0.1, 3345 D: 128.119.40.186, 80 10.0.0.4 138.76.29.7 1: host 10.0.0.1 sends datagram to 128.119.40.186, 80 NAT translation table WAN side addr LAN side addr 138.76.29.7, 5001 10.0.0.1, 3345 …… …… S: 128.119.40.186, 80 D: 10.0.0.1, 3345 S: 138.76.29.7, 5001 D: 128.119.40.186, 80 2: NAT router changes datagram source address from 10.0.0.1,",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 44,
+      "chunk_id": "p44c1",
+      "title": "Networ k Layer: 444 NAT: network address translation S: 10.0.0.1, 3345 D: 128.119.40.186, 80 10.0.0.",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "5001 D: 128.119.40.186, 80 2: NAT router changes datagram source address from 10.0.0.1, 3345 to 138.76.29.7, 5001, updates table S: 128.119.40.186, 80 D: 138.76.29.7, 5001 3: reply arrives, destination address: 138.76.29.7, 5001 10.0.0.1 10.0.0.2 10.0.0.3",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 44,
+      "chunk_id": "p44c2",
+      "title": "Networ k Layer: 444 NAT: network address translation S: 10.0.0.1, 3345 D: 128.119.40.186, 80 10.0.0.",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Logical Transport",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 45,
+      "chunk_id": "p45c1",
+      "title": "Logical Transport",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 352 Transport services and protocols ▪provide logical communication between application processes running on different hosts mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network applicatio n transport network data link physical applicatio n transport network data link physical ▪transport protocols",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 46,
+      "chunk_id": "p46c1",
+      "title": "Transp ort Layer: 352 Transport services and protocols ▪provide logical communication between applic",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "network data link physical applicatio n transport network data link physical ▪transport protocols actions in end systems: • sender: breaks application messages into segments, passes to network layer • receiver: reassembles segments into messages, passes to application layer ▪two transport protocols available to Internet applications • TCP, UDP",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 46,
+      "chunk_id": "p46c2",
+      "title": "Transp ort Layer: 352 Transport services and protocols ▪provide logical communication between applic",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 353 Two principal Internet transport protocols mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network applicatio n transport network data link physical applicatio n transport network data link physical ▪TCP: Transmission Control Protocol • reliable, inorder delivery • congestion control • flow",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 47,
+      "chunk_id": "p47c1",
+      "title": "Transp ort Layer: 353 Two principal Internet transport protocols mobile network home network enterpr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "▪TCP: Transmission Control Protocol • reliable, inorder delivery • congestion control • flow control • connection setup ▪UDP: User Datagram Protocol • unreliable, unordered delivery • nofrills extension of “besteffort” IP ▪services not available: • delay guarantees • bandwidth guarantees",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 47,
+      "chunk_id": "p47c2",
+      "title": "Transp ort Layer: 353 Two principal Internet transport protocols mobile network home network enterpr",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "transport physical link network transport application physical link network transport application physical link network HTTP server client HTTP msg Transp ort Layer: 354 HTTP msg Ht HTTP msg Ht Hn HTTP msg Ht Hn HTTP msg Ht Hn",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 48,
+      "chunk_id": "p48c1",
+      "title": "transport physical link network transport application physical link network transport application ph",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "? demultiplexing transport application",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 49,
+      "chunk_id": "p49c1",
+      "title": "? demultiplexing transport application",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 356 How demultiplexing works ▪host receives IP datagrams • each datagram has source IP address, destination IP address • each datagram carries one transportlayer segment • each segment has source, destination port number ▪host uses IP addresses & port numbers to direct segment to appropriate socket source port # dest port # 32 bits application data (payload) other header fields",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 50,
+      "chunk_id": "p50c1",
+      "title": "Transp ort Layer: 356 How demultiplexing works ▪host receives IP datagrams • each datagram has sourc",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "appropriate socket source port # dest port # 32 bits application data (payload) other header fields TCP/UDP segment format",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 50,
+      "chunk_id": "p50c2",
+      "title": "Transp ort Layer: 356 How demultiplexing works ▪host receives IP datagrams • each datagram has sourc",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 357 Connectionless demultiplexing Recall: ▪when creating socket, must specify hostlocal port #: DatagramSocket mySocket1 = new DatagramSocket(12534); when receiving host receives UDP segment: • checks destination port # in segment • directs UDP segment to socket with that port # ▪when creating datagram to send into UDP socket, must specify • destination IP address • destination",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 51,
+      "chunk_id": "p51c1",
+      "title": "Transp ort Layer: 357 Connectionless demultiplexing Recall: ▪when creating socket, must specify host",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "creating datagram to send into UDP socket, must specify • destination IP address • destination port # IP/UDP datagrams with same dest",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 51,
+      "chunk_id": "p51c2",
+      "title": "Transp ort Layer: 357 Connectionless demultiplexing Recall: ▪when creating socket, must specify host",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". port #, but different source IP addresses and/or source port numbers will be directed to same socket at receiving host",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 51,
+      "chunk_id": "p51c3",
+      "title": "Transp ort Layer: 357 Connectionless demultiplexing Recall: ▪when creating socket, must specify host",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 358 Connectionoriented demultiplexing ▪TCP socket identified by 4tuple: • source IP address • source port number • dest IP address • dest port number ▪server may support many simultaneous TCP sockets: • each socket identified by its own 4tuple • each socket associated with a different connecting client ▪demux: receiver uses all four values (4tuple) to direct segment to",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 52,
+      "chunk_id": "p52c1",
+      "title": "Transp ort Layer: 358 Connectionoriented demultiplexing ▪TCP socket identified by 4tuple: • source I",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "a different connecting client ▪demux: receiver uses all four values (4tuple) to direct segment to appropriate socket",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 52,
+      "chunk_id": "p52c2",
+      "title": "Transp ort Layer: 358 Connectionoriented demultiplexing ▪TCP socket identified by 4tuple: • source I",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 359 Connectionoriented demultiplexing: example transport application physical link network P1 transport application physical link P4 transport application physical link network P2 host: IP address A host: IP address C network P6 P5 P3 source IP,port: A,9157 dest IP, port: B,80 source IP,port: B,80 dest IP,port: A,9157 source IP,port: C,5775 dest IP,port: B,80 source IP,port:",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 53,
+      "chunk_id": "p53c1",
+      "title": "Transp ort Layer: 359 Connectionoriented demultiplexing: example transport application physical link",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "source IP,port: B,80 dest IP,port: A,9157 source IP,port: C,5775 dest IP,port: B,80 source IP,port: C,9157 dest IP,port: B,80 server: IP address B Three segments, all destined to IP address: B, dest port: 80 are demultiplexed to different sockets",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 53,
+      "chunk_id": "p53c2",
+      "title": "Transp ort Layer: 359 Connectionoriented demultiplexing: example transport application physical link",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "UDP and TCP (Un)reliable Transfers",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 54,
+      "chunk_id": "p54c1",
+      "title": "UDP and TCP (Un)reliable Transfers",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 361 UDP: User Datagram Protocol ▪“no frills,” “bare bones” Internet transport protocol ▪“best effort” service, UDP segments may be: • lost • delivered outoforder to app ▪no connection establishment (which can add RTT delay) ▪simple: no connection state at sender, receiver ▪small header size ▪no congestion control ▪UDP can blast away as fast as desired! ▪can function in the face",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 55,
+      "chunk_id": "p55c1",
+      "title": "Transp ort Layer: 361 UDP: User Datagram Protocol ▪“no frills,” “bare bones” Internet transport prot",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "size ▪no congestion control ▪UDP can blast away as fast as desired! ▪can function in the face of congestion Why is there a UDP? ▪connectionless: • no handshaking between UDP sender, receiver • each UDP segment handled independently of others",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 55,
+      "chunk_id": "p55c2",
+      "title": "Transp ort Layer: 361 UDP: User Datagram Protocol ▪“no frills,” “bare bones” Internet transport prot",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 362 UDP segment header source port # dest port # 32 bits application data (payload) UDP segment format length checksum length, in bytes of UDP segment, including header data to/from application layer",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 56,
+      "chunk_id": "p56c1",
+      "title": "Transp ort Layer: 362 UDP segment header source port # dest port # 32 bits application data (payload",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 363 Principles of reliable data transfer sending process dat a receiving process dat a application transport reliable service implementation unreliable channel network transport senderside of reliable data transfer protocol receiverside of reliable data transfer protocol Sender, receiver do not know the “state” of each other, e.g., was a message received? ▪ unless communicated",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 57,
+      "chunk_id": "p57c1",
+      "title": "Transp ort Layer: 363 Principles of reliable data transfer sending process dat a receiving process d",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "receiver do not know the “state” of each other, e.g., was a message received? ▪ unless communicated via a message",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 57,
+      "chunk_id": "p57c2",
+      "title": "Transp ort Layer: 363 Principles of reliable data transfer sending process dat a receiving process d",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 365 rdt2.0: channel with bit errors ▪underlying channel may flip bits in packet • checksum to detect bit errors ▪the question: how to recover from errors? • acknowledgements (ACKs): receiver explicitly tells sender that pkt received OK • negative acknowledgements (NAKs): receiver explicitly tells sender that pkt had errors • sender retransmits pkt on receipt of NAK stop and wait",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 58,
+      "chunk_id": "p58c1",
+      "title": "Transp ort Layer: 365 rdt2.0: channel with bit errors ▪underlying channel may flip bits in packet • ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "tells sender that pkt had errors • sender retransmits pkt on receipt of NAK stop and wait sender sends one packet, then waits for receiver response",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 58,
+      "chunk_id": "p58c2",
+      "title": "Transp ort Layer: 365 rdt2.0: channel with bit errors ▪underlying channel may flip bits in packet • ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 366 rdt3.0: channels with errors and loss Approach: sender waits “reasonable” amount of time for ACK ▪retransmits if no ACK received in this time ▪if pkt (or ACK) just delayed (not lost): • retransmission will be duplicate, but seq #s already handles this! • receiver must specify seq # of packet being ACKed timeout ▪use countdown timer to interrupt after “reasonable” amount of",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 59,
+      "chunk_id": "p59c1",
+      "title": "Transp ort Layer: 366 rdt3.0: channels with errors and loss Approach: sender waits “reasonable” amou",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "seq # of packet being ACKed timeout ▪use countdown timer to interrupt after “reasonable” amount of time",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 59,
+      "chunk_id": "p59c2",
+      "title": "Transp ort Layer: 366 rdt3.0: channels with errors and loss Approach: sender waits “reasonable” amou",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 367 rdt3.0 sender Wait for ACK0 sndpkt = make_pkt(0, data, checksum) udt_send(sndpkt) start_timer rdt_send(data) Wait for call 1 from above sndpkt = make_pkt(1, data, checksum) udt_send(sndpkt) start_timer rdt_send(data) rdt_rcv(rcvpkt) && notcorrupt(rcvpkt) && isACK(rcvpkt,0) stop_timer rdt_rcv(rcvpkt) && notcorrupt(rcvpkt) && isACK(rcvpkt,1) stop_timer udt_send(sndpkt)",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 60,
+      "chunk_id": "p60c1",
+      "title": "Transp ort Layer: 367 rdt3.0 sender Wait for ACK0 sndpkt = make_pkt(0, data, checksum) udt_send(sndp",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "stop_timer rdt_rcv(rcvpkt) && notcorrupt(rcvpkt) && isACK(rcvpkt,1) stop_timer udt_send(sndpkt) start_timer timeout Wait for call 0 from above Wait for ACK1  rdt_rcv(rcvpkt) rdt_rcv(rcvpkt) && ( corrupt(rcvpkt) || isACK(rcvpkt,1) )  rdt_rcv(rcvpkt)  udt_send(sndpkt) start_timer timeout rdt_rcv(rcvpkt) && ( corrupt(rcvpkt) || isACK(rcvpkt,0) ) ",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 60,
+      "chunk_id": "p60c2",
+      "title": "Transp ort Layer: 367 rdt3.0 sender Wait for ACK0 sndpkt = make_pkt(0, data, checksum) udt_send(sndp",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 368 GoBackN in action send pkt0 send pkt1 send pkt2 send pkt3 (wait) sender receiver receive pkt0, send ack0 receive pkt1, send ack1 receive pkt3, discard, (re)send ack1 send pkt2 send pkt3 send pkt4 send pkt5 Xloss pkt 2 timeout receive pkt4, discard, (re)send ack1 receive pkt5, discard, (re)send ack1 rcv pkt2, deliver, send ack2 rcv pkt3, deliver, send ack3 rcv pkt4, deliver,",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 61,
+      "chunk_id": "p61c1",
+      "title": "Transp ort Layer: 368 GoBackN in action send pkt0 send pkt1 send pkt2 send pkt3 (wait) sender receiv",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "discard, (re)send ack1 rcv pkt2, deliver, send ack2 rcv pkt3, deliver, send ack3 rcv pkt4, deliver, send ack4 rcv pkt5, deliver, send ack5 ignore duplicate ACK sender window (N=4) 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 rcv ack0, send pkt4 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 rcv ack1, send pkt5",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 61,
+      "chunk_id": "p61c2",
+      "title": "Transp ort Layer: 368 GoBackN in action send pkt0 send pkt1 send pkt2 send pkt3 (wait) sender receiv",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 369 TCP: overview RFCs: 793,1122, 2018, 5681, 7323 ▪cumulative ACKs ▪pipelining: • TCP congestion and flow control set window size ▪connectionoriented: • handshaking (exchange of control messages) initializes sender, receiver state before data exchange ▪flow controlled: • sender will not overwhelm receiver ▪pointtopoint: • one sender, one receiver ▪reliable, inorder byte steam: •",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 62,
+      "chunk_id": "p62c1",
+      "title": "Transp ort Layer: 369 TCP: overview RFCs: 793,1122, 2018, 5681, 7323 ▪cumulative ACKs ▪pipelining: •",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "not overwhelm receiver ▪pointtopoint: • one sender, one receiver ▪reliable, inorder byte steam: • no “message boundaries\" ▪full duplex data: • bidirectional data flow in same connection • MSS: maximum segment size",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 62,
+      "chunk_id": "p62c2",
+      "title": "Transp ort Layer: 369 TCP: overview RFCs: 793,1122, 2018, 5681, 7323 ▪cumulative ACKs ▪pipelining: •",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 370 TCP segment structure source port # dest port # 32 bits not used receive window flow control: # bytes receiver willing to accept sequence number segment seq #: counting bytes of data into bytestream (not segments!) application data (variable length) data sent by application into TCP socket A acknowledgement number ACK: seq # of next expected byte; A bit: this is an ACK",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 63,
+      "chunk_id": "p63c1",
+      "title": "Transp ort Layer: 370 TCP segment structure source port # dest port # 32 bits not used receive windo",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "into TCP socket A acknowledgement number ACK: seq # of next expected byte; A bit: this is an ACK options (variable length) TCP options head len length (of TCP header) checksum Internet checksum RST, SYN, FIN: connection management F S R Urg data pointer P U C E C, E: congestion notification",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 63,
+      "chunk_id": "p63c2",
+      "title": "Transp ort Layer: 370 TCP segment structure source port # dest port # 32 bits not used receive windo",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 371 TCP sequence numbers, ACKs Sequence numbers: • byte stream “number” of first byte in segment’s data source port # dest port # sequence number acknowledgement number checksum rwnd urg pointer outgoing segment from receiver A sent ACKed sent, notyet ACKed (“inflight”) usable but not yet sent not usable window size N sender sequence number space source port # dest port #",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 64,
+      "chunk_id": "p64c1",
+      "title": "Transp ort Layer: 371 TCP sequence numbers, ACKs Sequence numbers: • byte stream “number” of first b",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "but not yet sent not usable window size N sender sequence number space source port # dest port # sequence number acknowledgement number checksum rwnd urg pointer outgoing segment from sender Acknowledgements: • seq # of next byte expected from other side • cumulative ACK Q: how receiver handles outoforder segments • A: TCP spec doesn’t say,up to implementor",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 64,
+      "chunk_id": "p64c2",
+      "title": "Transp ort Layer: 371 TCP sequence numbers, ACKs Sequence numbers: • byte stream “number” of first b",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applications",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 65,
+      "chunk_id": "p65c1",
+      "title": "Applications",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applica tion Layer: 273 Some network apps ▪social networking ▪Web ▪text messaging ▪email ▪multiuser network games ▪streaming stored video (YouTube, Hulu, Netflix) ▪P2P file sharing ▪voice over IP (e.g., Skype) ▪realtime video conferencing (e.g., Zoom) ▪Internet search ▪remote login ▪… Q: your favorites?",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 66,
+      "chunk_id": "p66c1",
+      "title": "Applica tion Layer: 273 Some network apps ▪social networking ▪Web ▪text messaging ▪email ▪multiuser ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "mobile network home network enterprise network national or global ISP local or regional ISP datacenter network content provider network applicatio n transport network data link physical applicatio n transport network data link physical applicatio n transport network data link physical Applica tion Layer: 274 Creating a network app write programs that: ▪run on (different) end systems ▪communicate",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 67,
+      "chunk_id": "p67c1",
+      "title": "mobile network home network enterprise network national or global ISP local or regional ISP datacent",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Layer: 274 Creating a network app write programs that: ▪run on (different) end systems ▪communicate over network ▪e.g., web server software communicates with browser software no need to write software for networkcore devices ▪networkcore devices do not run user applications ▪applications on end systems allows for rapid app development, propagation",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 67,
+      "chunk_id": "p67c2",
+      "title": "mobile network home network enterprise network national or global ISP local or regional ISP datacent",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applica tion Layer: 275 Sockets ▪process sends/receives messages to/from its socket ▪socket analogous to door • sending process shoves message out door • sending process relies on transport infrastructure on other side of door to deliver message to socket at receiving process • two sockets involved: one on each side Internet controlled by OS controlled by app developer transport application",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 68,
+      "chunk_id": "p68c1",
+      "title": "Applica tion Layer: 275 Sockets ▪process sends/receives messages to/from its socket ▪socket analogou",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "one on each side Internet controlled by OS controlled by app developer transport application physical link network process transport application physical link network process socket",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 68,
+      "chunk_id": "p68c2",
+      "title": "Applica tion Layer: 275 Sockets ▪process sends/receives messages to/from its socket ▪socket analogou",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applica tion Layer: 276 Addressing processes ▪to receive messages, process must have identifier ▪host device has unique 32bit IP address ▪Q: does IP address of host on which process runs suffice for identifying the process? ▪identifier includes both IP address and port numbers associated with process on host",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 69,
+      "chunk_id": "p69c1",
+      "title": "Applica tion Layer: 276 Addressing processes ▪to receive messages, process must have identifier ▪hos",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". ▪example port numbers: • HTTP server: 80 • mail server: 25 ▪to send HTTP message to gaia.cs.umass.edu web server: • IP address: 128.119.245.12 • port number: 80 ▪more shortly… ▪A: no, many processes can be running on same host",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 69,
+      "chunk_id": "p69c2",
+      "title": "Applica tion Layer: 276 Addressing processes ▪to receive messages, process must have identifier ▪hos",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applica tion Layer: 277 An applicationlayer protocol defines: ▪types of messages exchanged, • e.g., request, response ▪message syntax: • what fields in messages & how fields are delineated ▪message semantics • meaning of information in fields ▪rules for when and how processes send & respond to messages open protocols: ▪defined in RFCs, everyone has access to protocol definition ▪allows for",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 70,
+      "chunk_id": "p70c1",
+      "title": "Applica tion Layer: 277 An applicationlayer protocol defines: ▪types of messages exchanged, • e.g., ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "messages open protocols: ▪defined in RFCs, everyone has access to protocol definition ▪allows for interoperability ▪e.g., HTTP, SMTP proprietary protocols: ▪e.g., Skype, Zoom",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 70,
+      "chunk_id": "p70c2",
+      "title": "Applica tion Layer: 277 An applicationlayer protocol defines: ▪types of messages exchanged, • e.g., ",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Applica tion Layer: 278 What transport service does an app need? data integrity ▪some apps (e.g., file transfer, web transactions) require 100% reliable data transfer ▪other apps (e.g., audio) can tolerate some loss timing ▪some apps (e.g., Internet telephony, interactive games) require low delay to be “effective” throughput ▪some apps (e.g., multimedia) require minimum amount of throughput to be",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 71,
+      "chunk_id": "p71c1",
+      "title": "Applica tion Layer: 278 What transport service does an app need? data integrity ▪some apps (e.g., fi",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "be “effective” throughput ▪some apps (e.g., multimedia) require minimum amount of throughput to be “effective” ▪other apps (“elastic apps”) make use of whatever throughput they get security ▪encryption, data integrity, …",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 71,
+      "chunk_id": "p71c2",
+      "title": "Applica tion Layer: 278 What transport service does an app need? data integrity ▪some apps (e.g., fi",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 379 Nonpersistent HTTP: example User enters URL: 1a. HTTP client initiates TCP connection to HTTP server (process) at www.someSchool.edu on port 80 2. HTTP client sends HTTP request message (containing URL) into TCP connection socket. Message indicates that client wants object someDepartment/home.index 1b",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 72,
+      "chunk_id": "p72c1",
+      "title": "Transp ort Layer: 379 Nonpersistent HTTP: example User enters URL: 1a. HTTP client initiates TCP con",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". Message indicates that client wants object someDepartment/home.index 1b. HTTP server at host www.someSchool.edu waiting for TCP connection at port 80 “accepts” connection, notifying client 3",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 72,
+      "chunk_id": "p72c2",
+      "title": "Transp ort Layer: 379 Nonpersistent HTTP: example User enters URL: 1a. HTTP client initiates TCP con",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": ". HTTP server receives request message, forms response message containing requested object, and sends message into its socket time (containing text, references to 10 jpeg images) www.someSchool.edu/someDepartment/home.index",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 72,
+      "chunk_id": "p72c3",
+      "title": "Transp ort Layer: 379 Nonpersistent HTTP: example User enters URL: 1a. HTTP client initiates TCP con",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 380 Nonpersistent HTTP: example (cont.) User enters URL: (containing text, references to 10 jpeg images) www.someSchool.edu/someDepartment/home.index 5. HTTP client receives response message containing html file, displays html. Parsing html file, finds 10 referenced jpeg objects 6. Steps 15 repeated for each of 10 jpeg objects 4. HTTP server closes TCP connection. time",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 73,
+      "chunk_id": "p73c1",
+      "title": "Transp ort Layer: 380 Nonpersistent HTTP: example (cont.) User enters URL: (containing text, referen",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "Transp ort Layer: 381 Nonpersistent HTTP: response time RTT (definition): time for a small packet to travel from client to server and back HTTP response time (per object): ▪one RTT to initiate TCP connection ▪one RTT for HTTP request and first few bytes of HTTP response to return ▪object/file transmission time time to transmit file initiate TCP connection RTT request file RTT file received time",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 74,
+      "chunk_id": "p74c1",
+      "title": "Transp ort Layer: 381 Nonpersistent HTTP: response time RTT (definition): time for a small packet to",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  },
+  {
+    "page_content": "time time to transmit file initiate TCP connection RTT request file RTT file received time time Nonpersistent HTTP response time = 2RTT+ file transmission time",
+    "metadata": {
+      "source": "infb-proj-basecamp-sose2025-04-networking.pdf",
+      "page": 74,
+      "chunk_id": "p74c2",
+      "title": "Transp ort Layer: 381 Nonpersistent HTTP: response time RTT (definition): time for a small packet to",
+      "ocr_used": false,
+      "course": "base_camp"
+    }
+  }
+]
